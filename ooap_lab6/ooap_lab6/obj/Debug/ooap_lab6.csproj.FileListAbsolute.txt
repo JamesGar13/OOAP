@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\bin\Debug\ooap_lab6.exe.config
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\bin\Debug\ooap_lab6.exe
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\bin\Debug\ooap_lab6.pdb
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\ooap_lab6.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\ooap_lab6_MarkupCompile.cache
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\ooap_lab6_MarkupCompile.lref
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\ooap_lab6.g.resources
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\ooap_lab6.Properties.Resources.resources
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\ooap_lab6.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\ooap_lab6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\ooap_lab6.exe
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab6\ooap_lab6\obj\Debug\ooap_lab6.pdb
