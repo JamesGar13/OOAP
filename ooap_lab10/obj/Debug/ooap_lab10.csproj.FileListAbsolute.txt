@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\ooap_lab10\bin\Debug\ooap_lab10.exe.config
+C:\Users\Admin\Desktop\ooap_lab10\bin\Debug\ooap_lab10.exe
+C:\Users\Admin\Desktop\ooap_lab10\bin\Debug\ooap_lab10.pdb
+C:\Users\Admin\Desktop\ooap_lab10\obj\Debug\ooap_lab10.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ooap_lab10\obj\Debug\ooap_lab10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ooap_lab10\obj\Debug\ooap_lab10.exe
+C:\Users\Admin\Desktop\ooap_lab10\obj\Debug\ooap_lab10.pdb

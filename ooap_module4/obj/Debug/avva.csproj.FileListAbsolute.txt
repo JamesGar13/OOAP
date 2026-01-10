@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Work\avva\bin\Debug\avva.exe.config
+C:\Users\Admin\Desktop\Work\avva\bin\Debug\avva.exe
+C:\Users\Admin\Desktop\Work\avva\bin\Debug\avva.pdb
+C:\Users\Admin\Desktop\Work\avva\obj\Debug\avva.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Work\avva\obj\Debug\avva.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work\avva\obj\Debug\avva.exe
+C:\Users\Admin\Desktop\Work\avva\obj\Debug\avva.pdb

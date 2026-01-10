@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1_reserve\bin\Debug\ooap_lab1_reserve.exe.config
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1_reserve\bin\Debug\ooap_lab1_reserve.exe
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1_reserve\bin\Debug\ooap_lab1_reserve.pdb
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1_reserve\obj\Debug\ooap_lab1_reserve.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1_reserve\obj\Debug\ooap_lab1_reserve.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1_reserve\obj\Debug\ooap_lab1_reserve.exe
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1_reserve\obj\Debug\ooap_lab1_reserve.pdb

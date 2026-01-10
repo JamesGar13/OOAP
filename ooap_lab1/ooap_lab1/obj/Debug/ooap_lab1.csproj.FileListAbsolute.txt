@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1\bin\Debug\ooap_lab1.exe.config
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1\bin\Debug\ooap_lab1.exe
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1\bin\Debug\ooap_lab1.pdb
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1\obj\Debug\ooap_lab1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1\obj\Debug\ooap_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1\obj\Debug\ooap_lab1.exe
+C:\Users\Admin\Desktop\Work\ASP.NET\ooap_lab1\ooap_lab1\obj\Debug\ooap_lab1.pdb

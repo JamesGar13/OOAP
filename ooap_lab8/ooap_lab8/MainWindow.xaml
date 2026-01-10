@@ -1,0 +1,17 @@
+﻿<Window x:Class="ooap_lab8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ooap_lab8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="StartButton" Content="Start Process" HorizontalAlignment="Left" Margin="10,240,0,0" VerticalAlignment="Top" Height="110" Width="200" FontSize="24" Click="StartButton_Click"/>
+        <ListBox x:Name="ListBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,10,360,199"/>
+        <TreeView x:Name="TreeView" Margin="445,10,10,199" Background="Gainsboro" SelectedItemChanged="TreeView_SelectedItemChanged"/>
+        <TextBlock x:Name="SelectedText" HorizontalAlignment="Left" Margin="445,240,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" Width="345" Text="text here"/>
+        <Button x:Name="LoadTree" Content="Load Tree" HorizontalAlignment="Left" Margin="509,324,0,0" VerticalAlignment="Top" Height="100" Width="217" Click="LoadTree_Click" FontSize="24"/>
+
+    </Grid>
+</Window>
